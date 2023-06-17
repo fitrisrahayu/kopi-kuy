@@ -1,0 +1,39 @@
+@media (max-width:600px) {
+
+   .navigasi {
+      display: none;
+   }
+
+   .shop {
+      margin-right: 20px
+   }
+
+   .logo {
+      margin-right: auto;
+   }
+
+   .col-kiri {
+      width: 100%;
+      text-align: center;
+      padding: 20px;
+   }
+
+   .col-kanan {
+      width: 100%;
+   }
+
+   .col-produk,
+   .col-team {
+      width: 50%;
+   }
+
+   .col-review {
+      width: 100%;
+      margin-bottom: 30px;
+   }
+
+   .col-kontak {
+      width: 50%;
+   }
+
+}
